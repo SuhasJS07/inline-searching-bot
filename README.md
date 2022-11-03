@@ -64,7 +64,7 @@ Read [this](https://telegram.dog/LazyDevelopers/8) before you start messing up w
 
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
 
-* Check [info.py](https://github.com/LazyDeveloperr/LazyPrincess/blob/master/info.py) for more
+* Check [info.py](https://github.com/SuhasJS07/inline-searching-bot/blob/master/info.py) for more
 
 ## Deploy
 
@@ -94,7 +94,7 @@ You can deploy this bot anywhere.
 
 <pre>
 
-git clone https://github.com/LazyDeveloperr/LazyPrincess
+git clone https://github.com/SuhasJS07/inline-searching-bot
 
 # Install Packages
 
@@ -170,11 +170,11 @@ python3 bot.py
 
 [![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/LazyPrincessSupport)
 
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/LazyDevelopers)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/SuhasJS07s)
 
 ## Credits 
 
-* [![LazyPrincess-Devs](https://img.shields.io/static/v1?label=LazyPrincess&message=devs&color=critical)](https://telegram.dog/LazyDevelopers)
+* [![LazyPrincess-Devs](https://img.shields.io/static/v1?label=inline-searching-bot&message=devs&color=critical)](https://telegram.dog/LazyDevelopers)
 
 ## Thanks to 
 
@@ -192,6 +192,6 @@ python3 bot.py
 
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
 
-Licensed under [GNU AGPL 2.0.](https://github.com/LazyDeveloperr/LazyPrincess/blob/master/LICENSE)
+Licensed under [GNU AGPL 2.0.](https://github.com/SuhasJS07/inline-searching-bot/blob/master/LICENSE)
 
 Selling The Codes To Other People For Money Is *Strictly Prohibited*. 

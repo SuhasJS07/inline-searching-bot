@@ -78,7 +78,7 @@ You can deploy this bot anywhere.
 
 <br>
 
-<a href="https://heroku.com/deploy?template=https://github.com/Suhasmovie/LazyPrincess">
+<a href="https://heroku.com/deploy?template=https://github.com/SuhasJS07/inline-searching-bot">
 
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
